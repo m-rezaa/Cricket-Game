@@ -38,7 +38,7 @@ The Cricket Game allows players to participate in a simulated cricket match thro
 
 This project was developed to strengthen C programming fundamentals and demonstrate how programming logic can be applied to create an interactive command-line game.
 
-👨‍💻 Author
+👨‍💻 Author<br>
 Developed by: Muhammad Reza<br>
 Institute: DHA Suffa University<br>
 LinkedIn: https://www.linkedin.com/in/muhammad-reza-rawjani<br>
